@@ -52,7 +52,7 @@ label {
 input[type="text"],
 input[type="email"],
 textarea {
-  background-color: lightblue !important;
+  background-color: lightblue;
   border: 1px solid black !important;
   color: black !important;
 }
