@@ -2,57 +2,57 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
+  background-color: #f4f4f4 !important;
+  color: #333 !important;
 }
 
 nav {
-  background-color: #222;
-  padding: 10px;
+  background-color: #222 !important;
+  padding: 10px !important;
 }
 nav ul {
-  list-style: none;
-  padding: 0;
+  list-style: none !important;
+  padding: 0 !important;
 }
 nav ul li {
-  display: inline;
-  margin-right: 15px;
+  display: inline !important;
+  margin-right: 15px !important;
 }
 nav ul li a {
-  color: white;
-  text-decoration: none;
+  color: white !important;
+  text-decoration: none !important;
 }
 
 .homepage-header {
-  color: darkorange;
-  text-align: center;
-  font-size: 2em;
+  color: darkorange !important;
+  text-align: center !important;
+  font-size: 2em !important;
 }
 
 .homepage-intro {
-  color: darkgreen;
+  color: darkgreen !important;
 }
 
 .about-heading {
-  color: darkred;
+  color: darkred !important;
 }
 
 .about-intro {
-  color: navy;
+  color: navy !important;
 }
 
 .about-hobby {
-  color: purple;
+  color: purple !important;
 }
 
 label {
-  color: darkblue;
+  color: darkblue !important;
 }
 
 input[type="text"],
 input[type="email"],
 textarea {
-  background-color: lightgray;
-  border: 1px solid black;
-  color: black;
+  background-color: lightgray !important;
+  border: 1px solid black !important;
+  color: black !important;
 }
