@@ -46,6 +46,7 @@ nav ul li a {
 
 label {
   color: darkblue;
+}
 
 input[type="text"],
 input[type="email"],
@@ -53,3 +54,4 @@ textarea {
   background-color: lightgray;
   border: 1px solid black;
   color: black;
+}
