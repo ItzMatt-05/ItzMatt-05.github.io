@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+nav {
+  background-color: #222;
+  padding: 10px;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.homepage-header {
+  color: darkorange;
+  text-align: center;
+  font-size: 2em;
+}
+
+.homepage-intro {
+  color: darkgreen;
+}
+
+.about-heading {
+  color: darkred;
+}
+
+.about-intro {
+  color: navy;
+}
+.about-hobby {
+  color: purple;
+}
+
+label {
+  color: darkblue;
+
+input[type="text"],
+input[type="email"],
+textarea {
+  background-color: lightgray;
+  border: 1px solid black;
+  color: black;
+
+
+
+
+
+
+
+
